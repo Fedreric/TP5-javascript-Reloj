@@ -22,9 +22,6 @@ body{
     flex-direction: column;
     align-items: center;
   }
-  #fecha{
-    
-  }
   #hora{
     font-size: 2em;
     margin-top: 2px;
