@@ -1,4 +1,4 @@
-# Trabajo practico N°5: Javascript - Lista de tareas
+# Trabajo practico N°5: Javascript - Reloj
 
 ![javascript](https://soyhorizonte.com/wp-content/uploads/2020/10/Javascript-by-SoyHorizonte.jpg)
 
